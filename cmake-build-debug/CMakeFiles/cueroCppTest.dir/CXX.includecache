@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zqu/CLionProjects/cueroCppTest/cppprimer/main.cpp
+
+C:/Users/zqu/CLionProjects/cueroCppTest/inputTest.cpp
+iostream
+-
+
+C:/Users/zqu/CLionProjects/cueroCppTest/lambdaTest.cpp
+vector
+-
+algorithm
+-
+cstdio
+-
+
+C:/Users/zqu/CLionProjects/cueroCppTest/main.cpp
+iostream
+-
+unordered_map
+-
+vector
+-
+queue
+-
+functional
+-
+cmath
+-
+ctime
+-
+
+C:/Users/zqu/CLionProjects/cueroCppTest/timingTest.cpp
+cstdio
+-
+ctime
+-
+iostream
+-
+
